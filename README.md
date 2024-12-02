@@ -16,13 +16,11 @@ Los breakpoints generalmente se basan en anchos de pantalla. Aquí están los va
 ### Pantallas extra grandes (monitores):
 1400px - 1920px: Pantallas de escritorio más amplias y monitores 4K.
 
+|
+|
 
 
-# Lo mismo pero sin descripcion:
-
-### smartphones:
-320px - 480px
-480px - 768px
+### smartphones: (320px - 480px / 480px - 768px)
 
 ### tablets:
 768px - 1024px
